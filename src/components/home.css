@@ -2571,7 +2571,7 @@
         left:15px;
         font-family: Montserrat;
         font-style: normal;
-        font-weight: 990;
+        font-weight: 600;
         font-size: 32px;
         line-height: 125%;
         /* or 125% */
@@ -2592,7 +2592,7 @@
 
         font-family: Montserrat;
         font-style: normal;
-        font-weight: 800;
+        font-weight: 500;
         font-size: 22px;
         /* line-height: 22px; */
 
@@ -2829,7 +2829,7 @@
 
         font-family: Montserrat;
         font-style: normal;
-        font-weight: 900;
+        font-weight: 600;
         font-size: 12px;
         line-height: 15px;
         display: flex;
@@ -3283,7 +3283,7 @@
 
         font-family: Montserrat;
         font-style: normal;
-        font-weight: 900;
+        font-weight: 600;
         font-size: 32px;
         line-height: 40px;
         /* or 125% */
